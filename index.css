@@ -380,6 +380,18 @@ footer{
     font-weight: bold ;
 }
 
+.file{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 26px 0;
+}
+.file img {
+    width: 80%;
+    height: 80%;
+}
+
 @media (max-width:360px) {
     .secRight{
         flex-direction: column-reverse;
