@@ -460,6 +460,12 @@ footer{
     left: -30px;
     top: 0px;
 }
+    .nav-list li {
+    padding: 3px 29px;
+    font-weight: bold;
+    list-style: none;
+    /* background-color: yellowgreen; */
+}
 }
 
 
