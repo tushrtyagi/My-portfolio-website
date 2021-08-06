@@ -145,7 +145,7 @@ header{
     height: 20%;
     border: 2px solid white;
     border-radius: 171px;
-    z-index:-1;
+    
 }
 .box-main{
     display: flex;
